@@ -3,6 +3,7 @@
 	"version": "0.0.1",
 	"scripts": {
 		"build": "vite build",
+		"deploy": "sh deploy.sh",
 		"dev": "vite",
 		"preview": "vite preview --port 4173"
 	},

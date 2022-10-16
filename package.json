@@ -13,6 +13,7 @@
 	"devDependencies": {
 		"@unocss/extractor-pug": "0.45.29",
 		"@vitejs/plugin-vue": "^3.0.3",
+		"@volar/vue-language-plugin-pug": "^1.0.8",
 		"pug": "3.0.2",
 		"unocss": "0.45.29",
 		"unplugin-auto-import": "0.11.2",

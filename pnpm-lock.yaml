@@ -4,15 +4,15 @@ specifiers:
   '@iconify/json': ^2.1.122
   '@unocss/extractor-pug': 0.45.29
   '@unocss/reset': 0.45.29
-  '@vitejs/plugin-vue': ^3.0.3
+  '@vitejs/plugin-vue': ^3.1.2
   '@volar/vue-language-plugin-pug': ^1.0.8
   '@vueuse/core': 9.3.0
   pug: 3.0.2
   unocss: 0.45.29
   unplugin-auto-import: 0.11.2
   unplugin-vue-components: 0.22.8
-  vite: ^3.0.9
-  vue: ^3.2.38
+  vite: ^3.1.8
+  vue: ^3.2.41
   vue-router: ^4.1.5
 
 dependencies:

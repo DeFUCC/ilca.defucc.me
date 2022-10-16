@@ -5,9 +5,9 @@ import { RouterLink, RouterView } from 'vue-router'
 <template lang="pug">
 header.text-center.flex.flex-col.items-center
   .flex.flex-col.leading-none.gap-0.text-center.p-4
-    .text-30vw.mx-auto.font-bold ILCA
+    router-link.text-30vw.mx-auto.font-bold(to="/") ILCA
     .text-8vw.leading-tight International Letter 
-      RouterLink(to="/") Count
+      RouterLink(to="/count") Count
       span &nbsp;and&nbsp;
       RouterLink(to="/account") Account
 RouterView

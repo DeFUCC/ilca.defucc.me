@@ -20,7 +20,7 @@ export default defineConfig({
         /\.[tj]sx?$/, // .ts, .tsx, .js, .jsx
         /\.vue\??/, // .vue
       ],
-      imports: ["vue"],
+      imports: ["vue", '@vueuse/core'],
     }),
     Components({
       dirs: ["src/components"],

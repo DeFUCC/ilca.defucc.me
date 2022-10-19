@@ -10,7 +10,7 @@ header.text-center.flex.flex-col.items-center
       RouterLink(to="/count") Count
       span &nbsp;and&nbsp;
       RouterLink(to="/account") Account
-RouterView
+RouterView.max-w-60ch.mx-auto
 </template>
 
 <style scoped>
